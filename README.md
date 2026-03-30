@@ -30,13 +30,19 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Stats" />
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="100%" />
+      </picture>
     </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" />
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
+      </picture>
     </td>
   </tr>
 </table>
@@ -45,28 +51,43 @@
 
 ### 📈 Profile Summary
 
-<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg#gh-dark-mode-only" alt="Profile Details" />
-<img src="./profile-summary-card-output/nord_bright/0-profile-details.svg#gh-light-mode-only" alt="Profile Details" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile Details" />
+</picture>
 
 <table>
   <tr>
     <td>
-      <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg#gh-dark-mode-only" alt="Repos per Language" />
-      <img src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per Language" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
+        <img src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Repos per Language" />
+      </picture>
     </td>
     <td>
-      <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg#gh-dark-mode-only" alt="Most Commit Language" />
-      <img src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg#gh-light-mode-only" alt="Most Commit Language" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
+        <img src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Most Commit Language" />
+      </picture>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./profile-summary-card-output/nord_dark/3-stats.svg#gh-dark-mode-only" alt="Stats" />
-      <img src="./profile-summary-card-output/nord_bright/3-stats.svg#gh-light-mode-only" alt="Stats" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/3-stats.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/3-stats.svg" />
+        <img src="./profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats" />
+      </picture>
     </td>
     <td>
-      <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg#gh-dark-mode-only" alt="Productive Time" />
-      <img src="./profile-summary-card-output/nord_bright/4-productive-time.svg#gh-light-mode-only" alt="Productive Time" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/4-productive-time.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/4-productive-time.svg" />
+        <img src="./profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
+      </picture>
     </td>
   </tr>
 </table>
