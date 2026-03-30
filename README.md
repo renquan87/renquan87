@@ -31,12 +31,12 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" />
-      <img src="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" />
     </td>
   </tr>
 </table>
