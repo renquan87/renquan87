@@ -6,7 +6,7 @@
 
 <p align="center">
   Passionate about <strong>Robotics</strong>, <strong>Computer Vision</strong>, and <strong>Multi-Modal Perception</strong>.<br/>
-  Always learning, always growing — one project at a time. 🌱
+  Always learning, always growing, and always open to meeting new friends. 
 </p>
 
 <p align="center">
@@ -31,18 +31,12 @@
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Stats" />
     </td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -51,43 +45,28 @@
 
 ### 📈 Profile Summary
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/0-profile-details.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/0-profile-details.svg" />
-  <img src="./profile-summary-card-output/nord_bright/0-profile-details.svg" alt="Profile Details" />
-</picture>
+<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg#gh-dark-mode-only" alt="Profile Details" />
+<img src="./profile-summary-card-output/nord_bright/0-profile-details.svg#gh-light-mode-only" alt="Profile Details" />
 
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/1-repos-per-language.svg" />
-        <img src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg" alt="Repos per Language" />
-      </picture>
+      <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg#gh-dark-mode-only" alt="Repos per Language" />
+      <img src="./profile-summary-card-output/nord_bright/1-repos-per-language.svg#gh-light-mode-only" alt="Repos per Language" />
     </td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
-        <img src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" alt="Most Commit Language" />
-      </picture>
+      <img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg#gh-dark-mode-only" alt="Most Commit Language" />
+      <img src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg#gh-light-mode-only" alt="Most Commit Language" />
     </td>
   </tr>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/3-stats.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/3-stats.svg" />
-        <img src="./profile-summary-card-output/nord_bright/3-stats.svg" alt="Stats" />
-      </picture>
+      <img src="./profile-summary-card-output/nord_dark/3-stats.svg#gh-dark-mode-only" alt="Stats" />
+      <img src="./profile-summary-card-output/nord_bright/3-stats.svg#gh-light-mode-only" alt="Stats" />
     </td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/nord_dark/4-productive-time.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/nord_bright/4-productive-time.svg" />
-        <img src="./profile-summary-card-output/nord_bright/4-productive-time.svg" alt="Productive Time" />
-      </picture>
+      <img src="./profile-summary-card-output/nord_dark/4-productive-time.svg#gh-dark-mode-only" alt="Productive Time" />
+      <img src="./profile-summary-card-output/nord_bright/4-productive-time.svg#gh-light-mode-only" alt="Productive Time" />
     </td>
   </tr>
 </table>
