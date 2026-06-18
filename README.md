@@ -22,7 +22,7 @@
 
 ### 📂 Current Projects
 
-[**HNURM-radar-2026**](https://github.com/renquan87/hnurm_radar) — Multi-sensor perception system for the RoboMaster 2026 radar station. Fuses camera-based YOLO detection with Livox LiDAR point cloud processing to achieve real-time  localization.
+[**HNURM-radar-2026**](https://github.com/renquan87/HNURM-radar-2026) — Multi-sensor perception system for the RoboMaster 2026 radar station. Fuses camera-based YOLO detection with Livox LiDAR point cloud processing to achieve real-time  localization.
 
 ---
 
