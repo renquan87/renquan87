@@ -32,18 +32,17 @@
   <tr>
     <td width="55%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true&card_width=600" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=600" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=300" alt="GitHub Stats" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true&card_width=600" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=600" />
+        <img src="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=300" alt="GitHub Stats" width="100%" />
       </picture>
     </td>
     <td width="45%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" />
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
       </picture>
     </td>
   </tr>
 </table>
-
