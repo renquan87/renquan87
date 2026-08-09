@@ -28,21 +28,28 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="55%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true&card_width=600" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=600" />
-        <img src="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=300" alt="GitHub Stats" width="100%" />
-      </picture>
-    </td>
-    <td width="45%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" />
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=tokyonight&hide_border=true&card_width=600" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=600" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=renquan87&show_icons=true&theme=default&hide_border=true&card_width=600"
+      alt="GitHub Stats"
+      width="600" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=tokyonight&hide_border=true&card_width=600" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true&card_width=600" />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=renquan87&layout=compact&theme=default&hide_border=true&card_width=600"
+      alt="Top Languages"
+      width="600" />
+  </picture>
+</p>
